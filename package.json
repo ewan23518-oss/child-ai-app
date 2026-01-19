@@ -12,15 +12,14 @@
   "dependencies": {
     "clsx": "^2.1.1",
     "framer-motion": "^12.26.2",
-    "https-proxy-agent": "^7.0.6",
     "lucide-react": "^0.562.0",
     "next": "16.1.2",
-    "node-fetch": "^3.3.2",
     "openai": "^6.16.0",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "sharp": "^0.34.5",
     "tailwind-merge": "^3.4.0",
+    "undici": "^7.18.2",
     "zod": "^4.3.5"
   },
   "devDependencies": {
